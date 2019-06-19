@@ -1,2 +1,2 @@
-# agroLoanMe
+# LoanVilla
 A Loan repayment system for Farmers
